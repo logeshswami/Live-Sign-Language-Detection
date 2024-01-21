@@ -6,3 +6,6 @@ This module perform live video detection using the CNN model with help of cv2 to
 In this model the input was converted into grayscale image and binary filters are applied with appropirate thrusthold for good performance
 
 refer the note book for preprocessing and model architecture and refer demo video for working
+<br>
+
+**video link** [https://drive.google.com/file/d/1wbEMmJtIhL8n09e5eyS7liqS9CPaAQ7W/view?usp=sharing]
